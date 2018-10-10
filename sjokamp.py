@@ -1,6 +1,6 @@
 ###
 # Battleships clone, requires ezgraphics
-# Improvement 1
+# Improvement 1 OOOOOHHH THIRD MOD
 # Modification to improvement 1
 # Further modification omg
 #
