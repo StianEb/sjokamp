@@ -1,5 +1,5 @@
 ###
-# Battleships clone, requires ezgraphics
+# Battleships clone, requires ezgraphics Really messing now
 # Improvement 1 OOOOOHHH THIRD MOD
 # Modification to improvement 1
 # Further modification omg
