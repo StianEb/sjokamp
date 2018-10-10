@@ -1,6 +1,7 @@
 ###
 # Battleships clone, requires ezgraphics
 # Improvement 1
+# Modification to improvement 1
 #
 
 from ezgraphics import GraphicsWindow
