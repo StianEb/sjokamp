@@ -7,8 +7,8 @@
 
 from ezgraphics import GraphicsWindow
 from random import randint, choice
-from time import sleep
-import sys
+from timerrrr import sleep
+import sys #poop
 
 
 def checkIfFree(field,ship_length,x,y,vertical):
