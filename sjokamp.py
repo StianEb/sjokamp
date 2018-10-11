@@ -1,13 +1,15 @@
 ###
-# Battleships clone, requires ezgraphics
-# Improvement 1
+# Battleships clone, requires ezgraphics Really messing now
+# Improvement 1 OOOOOHHH THIRD MOD
+# Modification to improvement 1
+# Further modification omg
 # Improvement 2
 # Improvement 3
 #
 
 from ezgraphics import GraphicsWindow
 from random import randint, choice
-from time import sleep
+from timer import sleep
 import sys
 
 
